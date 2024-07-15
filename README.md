@@ -30,16 +30,14 @@ cd Solana-Wallet-Scanner-and-Airdrop-Tool
 2. Install dependencies:
 ```
 npm install
-
 ```
 
 3. Create a `.env` file in the root directory with the following content:
 ```
-
 DEFAULT_MAINNET_RPC=https://api.mainnet-beta.solana.com
 DEFAULT_DEVNET_RPC=https://api.devnet.solana.com
 MAIN_WALLET_PRIVATE_KEY=your_private_key_here
-
+```
 Replace `your_private_key_here` with your actual private key.
 
 ## Usage
@@ -47,9 +45,7 @@ Replace `your_private_key_here` with your actual private key.
 Run the program with:
 
 ```
-
 npm start
-
 ```
 
 Follow the prompts to:
