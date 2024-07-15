@@ -24,8 +24,8 @@ This is a command-line tool for scanning Solana tokens and SOL balances, and tra
 1. Clone this repository:
 ```
 
-git clone https://github.com/yourusername/solana-token-scanner.git
-cd solana-token-scanner
+git clone https://github.com/pinkyhW/Solana-Wallet-Scanner-and-Airdrop-Tool.git
+cd Solana-Wallet-Scanner-and-Airdrop-Tool
 
 ```
 
@@ -65,25 +65,10 @@ Follow the prompts to:
 6. Choose distribution method (even or random)
 7. Select fee payer (main wallet or recipient wallets)
 
-## Configuration
-
-- `config.ts`: Contains functions for setting up the Solana connection and loading the wallet key.
-- `data.json`: Stores information about child wallets. This file is created and updated automatically.
-
 ## Security
 
 - Never share your `.env` file or private keys.
 - This tool is for educational and development purposes. Use on mainnet at your own risk.
-
-## Dependencies
-
-- @solana/web3.js
-- @solana/spl-token
-- @metaplex-foundation/js
-- dotenv
-- chalk
-- inquirer
-- table
 
 ## License
 
