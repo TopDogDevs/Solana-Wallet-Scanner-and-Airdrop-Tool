@@ -1,6 +1,3 @@
-Solana Wallet Scanner and Airdrop Tool
-
-```markdown
 # Solana Token Scanner and Transfer Tool
 
 This is a command-line tool for scanning Solana tokens and SOL balances, and transferring tokens to multiple wallets. It supports both mainnet and devnet networks.
@@ -22,16 +19,16 @@ This is a command-line tool for scanning Solana tokens and SOL balances, and tra
 ## Installation
 
 1. Clone this repository:
+
 ```
-
 git clone https://github.com/pinkyhW/Solana-Wallet-Scanner-and-Airdrop-Tool.git
+```
+```
 cd Solana-Wallet-Scanner-and-Airdrop-Tool
-
 ```
 
 2. Install dependencies:
 ```
-
 npm install
 
 ```
@@ -43,7 +40,6 @@ DEFAULT_MAINNET_RPC=https://api.mainnet-beta.solana.com
 DEFAULT_DEVNET_RPC=https://api.devnet.solana.com
 MAIN_WALLET_PRIVATE_KEY=your_private_key_here
 
-```
 Replace `your_private_key_here` with your actual private key.
 
 ## Usage
@@ -73,4 +69,3 @@ Follow the prompts to:
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-```
