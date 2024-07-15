@@ -4,7 +4,7 @@ This is a command-line tool for scanning Solana tokens and SOL balances, and tra
 
 ### Custom Solana development
 ```
-https://t.me/@zen_devs
+[https://t.me/@zen_devs](https://t.me/@zen_devs)
 ```
 
 ## Features
