@@ -3,9 +3,9 @@
 This is a command-line tool for scanning Solana tokens and SOL balances, and transferring tokens to multiple wallets. It supports both mainnet and devnet networks.
 
 ### Custom Solana development
-```
+
 [https://t.me/@zen_devs](https://t.me/@zen_devs)
-```
+
 
 ## Features
 
